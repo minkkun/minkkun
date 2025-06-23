@@ -1,5 +1,9 @@
 ### Minh's Profile 🍒
 
+- 🔭 I’m currently working on making my GitHub more active!
+- 🌱 I’m currently learning CV methods on measuring volume + making websites (so sorry)
+- 🤸🏼‍♀️ Big enthusiast in learning Machine Learning ~.~
+
 <!--
 **minkkun/minkkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
